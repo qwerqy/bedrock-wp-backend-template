@@ -69,7 +69,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wp-graphql/wp-graphiql": "^1.0.1",
-		"wp-graphql/wp-graphql": "^0.10.0",
+		"wp-graphql/wp-graphql": "^1.14.6",
 		"wp-graphql/wp-graphql-acf": "^0.3.4",
 		"wp-graphql/wp-graphql-jwt-authentication": "^0.4.1",
 		"wp-sync-db/wp-sync-db": "^1.0.0",
